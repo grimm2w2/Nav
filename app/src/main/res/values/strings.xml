@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Nav</string>
+    <string name="circles">CircleS</string>
+    <string name="count2">Count</string>
+    <string name="clearall">ClearAll</string>
+    <string name="network_coordinates">Network coordinates</string>
+    <string name="savecoord">SaveCoord</string>
+    <string name="gps_coordinates">GPS coordinates</string>
+    <string name="item">Item</string>
+    <string name="rectangles">RectangleS</string>
+    <string name="current_figure_square">Current Figure Square</string>
+    <string name="backtocoordinates">BackToCoordinates</string>
+    <string name="summary_square">Summary Square</string>
+    <string name="clearsquare">ClearSquare</string>
+    <string name="circlesRU">Пл.Окружности</string>
+    <string name="count2RU">Счет</string>
+    <string name="clearallRU">ОчиститьБД</string>
+    <string name="network_coordinatesRU">Координаты Сети</string>
+    <string name="savecoordRU">Сохранить</string>
+    <string name="gps_coordinatesRU">GPS Координаты</string>
+    <string name="itemRU">Содержимое</string>
+    <string name="rectanglesRU">Пл.Прямоугольник</string>
+    <string name="current_figure_squareRU">Пл. Текущей Фигуры</string>
+    <string name="backtocoordinatesRU">Назад</string>
+    <string name="summary_squareRU">Сумм. площадь</string>
+    <string name="clearsquareRU">Обнулить сумму</string>
+    <string name="ru">RU</string>
+    <string name="eng">ENG</string>
+</resources>
